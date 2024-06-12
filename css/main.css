@@ -1,0 +1,37 @@
+.card_wrapper{
+    margin-top:20px;
+}
+.card_text{
+    margin-top:20px;
+}
+.btn_color{
+    background: linear-gradient(45deg, #37ecba, #72afd3);
+}
+.las_link_bottom{
+    text-decoration: none;
+}
+.carousel-wrapper{
+    max-width: 100%;
+}
+.baba{
+    max-width: 100%;
+}
+@media screen and (min-width:400px){
+    .baba{
+        max-width: 100%;
+    } 
+}
+@media screen and (min-width:600px){
+    .card_wrapper{
+        display:flex;
+    }
+}
+@media screen and (min-width:900px){
+    .card{
+        margin-right: 30px;
+    }
+}
+
+
+
+
